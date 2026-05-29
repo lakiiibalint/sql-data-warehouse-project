@@ -2,7 +2,8 @@
 
 ## 📌 Project Overview
 
-This project demonstrates a **modern data warehouse** built from the ground up, covering architecture design, ETL pipeline development, dimensional data modeling, and SQL-based analytics.
+This project demonstrates a **modern data warehouse** built from the ground up, covering architecture design, ETL pipeline development, dimensional data modeling. (With the help of https://www.linkedin.com/in/baraa-khatib-salkini/.
+)
 
 ---
 
