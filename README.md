@@ -25,11 +25,6 @@ The solution is structured around the **Medallion Architecture**, organizing dat
 - Dimension tables providing descriptive context (customers, products, dates, etc.)
 - Optimized for analytical query performance
 
-### 3. Analytics & Reporting
-- SQL-based reports delivering actionable KPIs
-- Reusable query patterns for business metrics
-- Designed for downstream BI tooling integration
-
 - ## 🛠️ Tech Stack
 
 - **Database:** Microsoft SQL Server
