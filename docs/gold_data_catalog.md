@@ -1,7 +1,5 @@
 # 📦 Gold Layer — Data Catalog
 
-> **Layer:** Gold | **Schema:** `gold` | **Last Updated:** 2026-05-29
-
 ---
 
 ## Table of Contents
