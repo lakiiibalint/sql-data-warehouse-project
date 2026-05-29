@@ -19,7 +19,7 @@
 
 | Column Name | Data Type | Nullable | Description |
 |---|---|---|---|
-| `customer_key` | BIGINT | YES | Surrogate key — primary identifier for the customer dimension (system-generated). |
+| `customer_key` | BIGINT | Surrogate key — primary identifier for the customer dimension (system-generated). |
 | `customer_id` | INT | YES | Natural/business key — original customer identifier from the source system. |
 | `customer_number` | NVARCHAR(50) | YES | Human-readable customer reference number (e.g. account code). |
 | `first_name` | NVARCHAR(50) | YES | Customer's first name. |
