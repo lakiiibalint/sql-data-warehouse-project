@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project demonstrates a **modern data warehouse** built from the ground up, covering architecture design, ETL pipeline development, dimensional data modeling. (With the help of https://www.linkedin.com/in/baraa-khatib-salkini/.
+This project demonstrates a **modern data warehouse** built from the ground up, covering architecture design, ELT (On the VERGE of ETL) pipeline development, dimensional data modeling. (With the help of https://www.linkedin.com/in/baraa-khatib-salkini/.
 )
 
 ---
@@ -15,7 +15,7 @@ The solution is structured around the **Medallion Architecture**, organizing dat
 
 ## 🔧 Project Components
 
-### 1. ETL Pipelines
+### 1. ELT Pipelines
 - Extract data from flat CSV source files
 - Transform with cleansing, standardization, and business rule application
 - Load into layered SQL Server database tables across Bronze → Silver → Gold
